@@ -35,7 +35,9 @@ Visita nuestra página web [oasyscorporations.com](https://oasyscorporations.com
 
 - **Web**: [oasyscorporations.com](https://oasyscorporations.com)
 - **Correo**: [info@oasyscorporations.com](mailto:info@oasyscorporations.com)
-- **Redes Sociales**: [@oasyscorporations](https://www.instagram.com/oasyscorporations/)
+- **Instagram**: [@oasyscorporations](https://www.instagram.com/oasyscorporations/)
+- **X**: [@oasys_corp](https://x.com/oasys_corp)
+- **Linkedin**: [@oasyscorporations](https://www.linkedin.com/company/oasyscorporations)
 
 ## Contribuciones
 
